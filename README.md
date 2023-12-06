@@ -7,14 +7,14 @@
 - **Technical Stacks:** JavaScript, TailWindCSS, React.js, Redux, Stripe API, Node.js, Express, JSON Web Token, and MongoDB.
 
 ## Education
-- **Bachelor of Technology - IT**
-  - CGPA: 7.57
-  - PSIT College of Engineering, Kanpur, UP, IN
+- **Bachelor of Technology - CSE**
+  - CGPA: 7.5
+  - PSIT, Kanpur, UP, IN
   - Dec 2020 - Present
 
 - **Intermediate School**
-  - Percentage: 75.20
-  - SVM Inter College, Unnao, UP, IN
+  - Percentage: 69.5
+  - AVM Senior Secondary School, Unnao, UP, IN
   - Apr 2017 - Apr 2018
  
 - **High School**
